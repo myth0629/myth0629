@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://github.com/myth0629">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Songshinhwa;Game+Developer;Unity+%C2%B7+C%23+%C2%B7+Netcode;Physics-driven+multiplayer+games" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Game+Developer" alt="typing" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myth0629&label=Profile%20views&color=58A6FF&style=flat" alt="views" />
 </p>
 
 ---
