@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/myth0629">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+Game+Developer" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+a+Game+Developer" alt="typing" />
   </a>
 </p>
 
